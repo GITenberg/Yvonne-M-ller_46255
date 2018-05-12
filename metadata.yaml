@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43681
     wikipedia: https://de.wikipedia.org/wiki/Otto_Flake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46255#Yvonne-M-ller
 gutenberg_issued: '2014-07-12'
 gutenberg_type: Text
 identifiers:
